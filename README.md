@@ -6,6 +6,6 @@ BLISTA, ASTEROPE2, BALLER, BANSHEE. Quite close to regular GTA behaviour.
 
 KANJO, PREMIER, CAVALCADE, COQUETTE. Similar values to the above, but with increased gravity and inertia so the cars feel less floaty. Also the anti-roll force is removed or lowered.
 
-PRAIRIE, INTRUDER, LANDSTALKER, SPECTER. A preview for my own full project, again with increased gravity but also "extra soft surface suspension". Similar inertia values to the above.
+PRAIRIE, INTRUDER, LANDSTALKER, SPECTER. A preview for my own full project, again with increased gravity but also "extra soft surface suspension". Similar inertia and roll values as the above.
 
 RHAPSODY, PRIMO, GRESLEY, RAPIDGT. An homage to the excellent 'Drive V' (https://github.com/Weilher420/DriveV_Fivem_port), does not have increased gravity but has greatly increased inertia values alongside alt suspension.
