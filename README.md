@@ -1,6 +1,6 @@
 # GTA-V-Handling
 
-GTA V Handling, done 4 ways as a showcase. There are 4 versions of 4 different types of vehicle used, 16 total. Certain values have been changed to have similar performance for each type, with the same wheels being driven for comparitive purposes.
+GTA V Handling, with 4 different variations as a showcase. There are 4 versions of 4 different types of vehicle used, 16 total. Certain values have been changed to have similar performance for each type, with the same wheels being driven for comparitive purposes.
 
 BLISTA, ASTEROPE2, BALLER, BANSHEE. Quite close to regular GTA behaviour.
 
